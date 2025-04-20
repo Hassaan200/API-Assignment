@@ -193,6 +193,7 @@ h1{
     font-size: 1.5rem;
     color: var(--dark);
     padding: 2rem;
+    margin-top: 1rem;
 }
 
 @media (max-width: 768px) {
@@ -201,7 +202,10 @@ h1{
         
     }
     
-    
+    .loading{
+margin-top: 3rem;
+font-size: 1rem;
+    }
     img{
         max-width: 100%;
     }
